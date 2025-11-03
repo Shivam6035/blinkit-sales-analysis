@@ -99,9 +99,9 @@ Outlet Type:
 
 ```
 
-Here is a detailed snapshot of your dataset, based on the "BlinkIT Grocery Data.csv" file.
+Detailed snapshot of your dataset, based on the "BlinkIT Grocery Data.csv" file.
 
-This dataset contains **8,523 rows** and **13 columns**, representing individual product sales across various retail outlets. It's designed to analyze how different factors—like the product type, its visibility, and the store's characteristics—influence sales.
+The dataset contains **8,523 rows** and **13 columns**, representing individual product sales across various retail outlets. It's designed to analyze how different factors—like the product type, its visibility, and the store's characteristics—influence sales.
 
 Here is a breakdown of each column:
 
