@@ -1,6 +1,6 @@
 # blinkit-sales-analysis
 
-### A anapshot of data
+### A Sanapshot of Datase
 ```python?code_reference&code_event_index=2
 import pandas as pd
 
